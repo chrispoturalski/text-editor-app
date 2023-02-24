@@ -15,7 +15,7 @@ To build this text editor, you will start with an existing application and imple
 
 ## Screenshot
 
-![Image 1](Screen%20Shot%202023-02-24%20at%2011.27.20%20AM.png)
+![Image 1](Screen Shot 2023-02-24 at 11.33.54 AM.png)
 
 ## Deployment
 
